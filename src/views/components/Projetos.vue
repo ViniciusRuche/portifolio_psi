@@ -22,7 +22,7 @@ const projects = [
     title: 'Aeroclube Web',
     shortDesc: 'Sistema de gestão para o Aeroclube de Caxias do Sul.',
     fullDesc: 'Uma plataforma de gestão integrada desenvolvida para o Aeroclube de Caxias do Sul. O sistema automatiza o controle financeiro (fluxo de caixa e geração de recibos em PDF), a gestão acadêmica de alunos e o controle de acesso via Auth JWT, oferecendo dashboards estratégicos para a tomada de decisão.',
-    image: '/favicon/logo-aeroclube.png',
+    image: 'https://www.aeroclubecaxias.com.br/images/logo.png',
     tags: ['Vue', 'Django', 'PostgreSQL'],
     repo: 'https://github.com/ViniciusRuche/aeroclube',
     live: 'https://aeroclube.wemakecode.dev/',
